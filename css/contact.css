@@ -1,0 +1,29 @@
+.contact_form tr{
+  height: 7rem;
+}
+
+.contact_form th{
+  width:150px;
+}
+
+.contact_form input[type="text"]{
+  width:480px;
+}
+
+.contact_form textarea{
+  width:480px;
+}
+
+input[type="submit"]{
+  background-color: blue;
+  color:white;
+  font-size: 1.5rem;
+}
+
+input[type="submit"]:hover{
+  opacity:0.5;
+}
+
+.submit_buttton{
+  text-align: center;
+}
